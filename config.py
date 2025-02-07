@@ -32,7 +32,7 @@ MODEL_CONFIGS = {
     },
 
     "tongyi": {
-        "api_key": "sk-151dcba46f6c4825a28bd9e8d106abdf",  # 用你自己的 API 密钥替代
+        "api_key": "",  # 用你自己的 API 密钥替代
         "base_url": "https://dashscope.aliyuncs.com/compatible-mode/v1",  # 如果你使用的是 Tongyi API
         "model": "qwen-plus"  # Tongyi 模型名称
     }
